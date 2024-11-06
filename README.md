@@ -1,3 +1,6 @@
-# Projektets Namn
+# Name
+sunSet
 
-En applikation som indikerar och demostrerar solens rörelse kring en fastighet
+## Description
+
+An application that displays and demonstrates the movement of the sun based on specified north/south positions on a property.
